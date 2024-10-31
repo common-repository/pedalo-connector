@@ -1,0 +1,17 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.settings_page_pedalo-connector .form-table th{
+	display:none;
+}
+
+.settings_page_pedalo-connector .content-box {
+	columns: 3 auto;
+	color: blue;
+	font-size: 30px;
+  }
+
+  .settings_page_pedalo-connector .grid-container {
+	display: grid;
+  }
